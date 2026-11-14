@@ -1,6 +1,13 @@
 # recipe-index
 Collection of recipes I find online
 
+## To Look Into in the future
+- Whipped Lemonade
+- Castella Bread
+- Lasagna Rolls
+- Rasta Pasta
+- Kumpir (Turkish Baked Potatoes)
+
 # Loves and Lemons
 | Title | Link |
 | ----- | ---- |
@@ -58,8 +65,12 @@ Collection of recipes I find online
 | Shakshuka | https://www.themediterraneandish.com/shakshuka-recipe/ |
 | Spaghetti Sauce | https://www.themediterraneandish.com/spaghetti-sauce-recipe/ |
 | Hummus | https://www.themediterraneandish.com/how-to-make-hummus/ |
-| Harrisaa Honey Chicken | https://www.themediterraneandish.com/harissa-honey-chicken/ |
+| Harissa Honey Chicken | https://www.themediterraneandish.com/harissa-honey-chicken/ |
 | Shish Tawook | https://www.themediterraneandish.com/shish-tawook/ |
+| Halva | https://www.themediterraneandish.com/halva-recipe/#wprm-recipe-container-106854 |
+| Tahini Brownies | https://www.themediterraneandish.com/tahini-brownies-recipe/ |
+| Magdalenas | https://www.themediterraneandish.com/magdalenas-spanish-lemon-muffins/ |
+| Chicken Cacciatore | https://www.themediterraneandish.com/chicken-cacciatore-recipe/ |
 
 # Girls Can Grill
 | Title | Link |
@@ -91,6 +102,7 @@ Collection of recipes I find online
 | Fruit Sandwich | https://www.justonecookbook.com/japanese-fruit-sandwich-fruit-sando/ |
 | Miso Soup | https://www.justonecookbook.com/10-minute-meal-easy-miso-soup/ |
 | Taco Rice | https://www.justonecookbook.com/taco-rice/ |
+| Katsu Sando | https://www.justonecookbook.com/katsu-sando/ |
 
 # Taste of Home
 | Title | Link |
@@ -187,3 +199,18 @@ Collection of recipes I find online
 | Title | Link |
 | ----- | ---- |
 | Grilled/Baked Amberjack | https://joesbutchershop.com/grilled-or-baked-amberjack/ |
+
+# Once Upon a Chef
+| Title | Link |
+| ----- | ---- |
+| Stovetop Steak | https://www.onceuponachef.com/recipes/how-to-cook-steak-on-the-stovetop.html#recipe |
+
+# Korean Bapsang
+| Title | Link |
+| ----- | ---- |
+| Dakgangjeong (Korean Fried Chicken) | https://www.koreanbapsang.com/dakgangjeong-sweet-crispy-chicken/ |
+
+# Vanilla Bean Blog
+| Title | Link |
+| ----- | ---- |
+| Apple Creme Fraiche Pie| https://www.thevanillabeanblog.com/apple-creme-fraiche-pie/ |
