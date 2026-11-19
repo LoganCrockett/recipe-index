@@ -7,6 +7,12 @@ Collection of recipes I find online
 - Lasagna Rolls
 - Rasta Pasta
 - Kumpir (Turkish Baked Potatoes)
+- Amygadoila
+- Koulourakia
+- Protein Packed Breakfest Hummus Bowl
+- Guo Bao Ruo
+- Aji Verde
+- Negiyaki JOC
 
 # Loves and Lemons
 | Title | Link |
